@@ -1,0 +1,26 @@
+.Task {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  height: 50px;
+  margin: 1%;
+}
+
+.desc {
+  background-color: #ffffffb5;
+  color: black;
+  font-weight: 900;
+  height: 25px;
+  width: 50%;
+  text-align: center;
+  border-radius: 5px;
+  resize: none;
+  padding: 1%;
+  font-size: 15px;
+}
+
+.done {
+  text-decoration: line-through;
+}

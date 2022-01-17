@@ -1,0 +1,15 @@
+.header {
+  background-color: #0c0101e7;
+  top: 0;
+  padding: 1px;
+  text-align: center;
+  font-family: "DEATHNOTE Font";
+  font-size: x-large;
+  letter-spacing: 3px;
+  position: fixed;
+  width: 100%;
+}
+
+.header h2 {
+  color: #f7f5fb;
+}

@@ -1,0 +1,37 @@
+.ADD {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #0c0101a1;
+  margin: 10% 15% 2% 15%;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.ADD h3 {
+  color: #f7f5fb;
+  font-family: "DEATHNOTE Font";
+  font-size: x-large;
+  letter-spacing: 5px;
+}
+
+input {
+  width: 25%;
+  border-radius: 6px;
+  padding: 10px;
+  height: 25px;
+  font-size: 15px;
+  font-weight: 700;
+  transition: all 0.15s ease;
+  text-align: center;
+  background-color: #ffffff;
+}
+button {
+  font-family: "DEATHNOTE Font";
+  font-size: x-large;
+  font-weight: 700;
+  background-color: darkgray;
+  border: none;
+  border-radius: 2px;
+}
